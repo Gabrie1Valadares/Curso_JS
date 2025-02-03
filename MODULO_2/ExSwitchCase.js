@@ -8,7 +8,7 @@ function getDiaSemanaTexto(diaSemana) {
   switch (diaSemana) {
     case 0:
       diaSemanaTexto = "Domingo";
-      return diaSemanaTexto;
+      return diaSemanaTexto; 
     case 1:
       diaSemanaTexto = "Segunda-feira";
       return diaSemanaTexto;

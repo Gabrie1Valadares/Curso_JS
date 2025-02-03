@@ -34,7 +34,7 @@ const numeros = [
   [4, 5, 6],
   [7, 8, 9],
 ];
-const [lista1, lista2, lista3] = numeros;
+const [lista1, lista2, list a3] = numeros;
 console.log(lista3[3]);
 */
 //ATRIBUIÇÃO VIA DESESTRUTURAÇÃO (OBJETOS)
